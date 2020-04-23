@@ -1,2 +1,2 @@
-# cafe-code
-code cheer
+# cafe code
+everyone code cheer
