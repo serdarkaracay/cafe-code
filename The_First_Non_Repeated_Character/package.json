@@ -1,0 +1,17 @@
+{
+  "name": "The_First_Non_Repeated_Character",
+  "version": "1.0.0",
+  "main": "firstNonRepeated.js",
+  "scripts": {
+    "test": "mocha 'firstNonRepeated.js'",
+    "serdar": "mocha 'firstNonRepeated.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
