@@ -10,14 +10,14 @@
                 "type": "node",
                 "request": "launch",
                 "name": "Mocha Tests",
-                "program": "${workspaceFolder}/The_First_Non_Repeated_Character/node_modules/mocha/bin/_mocha",
+                "program": "${workspaceFolder}/Cafe/node_modules/mocha/bin/_mocha",
                 "args": [
                   "-u",
                   "bdd",
                   "--timeout",
                   "999999",
                   "--colors",
-                  "${workspaceFolder}/The_First_Non_Repeated_Character/firstNonRepeated.js"
+                  "${workspaceFolder}/Cafe/*.js"
                 ],
                 "internalConsoleOptions": "openOnSessionStart"
             

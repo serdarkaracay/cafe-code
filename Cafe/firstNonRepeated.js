@@ -1,6 +1,7 @@
-const assert = require("chai").assert;
+  const assert = require("chai").assert;
 
 function firstNonRepeated(string) {
+    
   for (var i = 0; i < string.length; i++) {
     var c = string.charAt(i);
     string.substring(i, string.length);
