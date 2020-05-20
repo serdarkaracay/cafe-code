@@ -4,7 +4,8 @@
   "main": "firstNonRepeated.js",
   "scripts": {
     "test": "mocha 'firstNonRepeated.js'",
-    "serdar": "mocha 'firstNonRepeated.js'"
+    "serdar": "mocha 'firstNonRepeated.js'",
+    "searchletters" : "mocha 'searchLetters.js'"
   },
   "keywords": [],
   "author": "",
