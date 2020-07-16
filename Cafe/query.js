@@ -12,7 +12,7 @@ class Query {
     return this;
   }
   execute() {
-    return this.data.map(this.funcPredicateSelect);
+    return this.data.map(this.funcPredicateSelect)
   }
 }
 
