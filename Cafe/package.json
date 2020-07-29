@@ -7,7 +7,8 @@
     "serdar": "mocha 'firstNonRepeated.js'",
     "searchletters": "mocha 'searchLetters.js'",
     "uniquechracter": "mocha 'uniquechracter.js'",
-    "totalamountpoints": "mocha 'totalamountpoints.js'"
+    "totalamountpoints": "mocha 'totalamountpoints.js'",
+    "test-watch": "jest --watch"
   },
   "keywords": [],
   "author": "",
@@ -16,5 +17,8 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^7.1.1"
+  },
+  "dependencies": {
+    "jest": "^26.1.0"
   }
 }
